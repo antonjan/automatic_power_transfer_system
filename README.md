@@ -1,6 +1,8 @@
 # automatic_power_transfer_system
 This repository will have my Power backup system details.<br>
 I wanted a way for my Generator to switch over from city power to my generator and when the city power come back up it must automatekely switch the Generator off and switch back to city power.<br>
+The auto transfer switch had a monitor aoutput that was used to detect when the city power supply is upp or down<br>
+This monitoring output was used to controle the Generator.<br>
 My reqierment was as follow.
 1) When my city power is down I will start the Petrol Generator manuely for now.<br>
 2) Then the Automatic transfer switch will switch over to my generator.
